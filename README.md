@@ -1,11 +1,13 @@
-# Rogue Pickings Website
-Skillcrush 101 Bonus Project. Made with HTML & CSS.
+# Rogue Pickings
+Skillcrush 101 Bonus Project from updated Skillcrush 101 course. This web page is based on a design comp.
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on a design created by Skillcrush. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
 
 ## Acknowledgements
 * Skillcrush
